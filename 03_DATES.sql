@@ -1,6 +1,6 @@
 -- This file was created by SleekData (https://www.youtube.com/@sleekdata)
 -- You may use it for personal, educational purposes only.
--- Unauthorized commercial use of this file or its data, including use in other YouTube videos, is prohibited.
+-- aa Unauthorized commercial use of this file or its data, including use in other YouTube videos, is prohibited.
 
 INSERT INTO "L1_LANDING"."DATES" ("DATE", "DAY", "MONTH", "YEAR", "QUARTER", "DAYOFWEEK", "WEEKOFYEAR", "UPDATED_AT") VALUES
 ('2025-01-01', 1, 1, 2025, 1, 'Wednesday', 1, '2025-07-03 01:16:53'),
