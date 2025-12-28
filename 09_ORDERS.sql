@@ -1,6 +1,6 @@
 -- This file was created by SleekData (https://www.youtube.com/@sleekdata)
 -- You may use it for personal, educational purposes only.
--- Unauthorized commercial use of this file or its data, including use in other YouTube videos, is prohibited.
+-- aaa Unauthorized commercial use of this file or its data, including use in other YouTube videos, is prohibited.
 
 INSERT INTO "L1_LANDING"."ORDERS" ("ORDERID", "ORDERDATE", "CUSTOMERID", "EMPLOYEEID", "STOREID", "STATUS", "UPDATED_AT") VALUES
 (800061, '2025-07-03', '22531', 509921, '1506', '02', '2025-07-03 01:18:51'),
