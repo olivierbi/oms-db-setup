@@ -2,12 +2,6 @@
 -- You may use it for personal, educational purposes only.
 -- Unauthorized commercial use of this file or its data, including use in other YouTube videos, is prohibited.
 
--- Create database
-CREATE DATABASE IF NOT EXISTS SLEEKMART_OMS2;
-
--- Use the database
-USE DATABASE SLEEKMART_OMS2;
-
 -- Create schema
 CREATE SCHEMA IF NOT EXISTS L1_LANDING;
 
