@@ -1,6 +1,6 @@
 -- This file was created by SleekData (https://www.youtube.com/@sleekdata)
 -- You may use it for personal, educational purposes only.
--- Unauthorized commercial use of this file or its data, including use in other YouTube videos, is prohibited.
+-- zzUnauthorized commercial use of this file or its data, including use in other YouTube videos, is prohibited.
 
 INSERT INTO "L1_LANDING"."EMPLOYEES" ("EMPLOYEEID", "FIRSTNAME", "LASTNAME", "EMAIL", "JOBTITLE", "HIREDATE", "MANAGERID", "ADDRESS", "CITY", "STATE", "ZIPCODE", "UPDATED_AT") VALUES
 (503454, 'Juan', 'Taylor', 'juan.taylor@sleekmart.com', 'CEO', '2021-03-20', NULL, '52869 Levy Coves', 'New York', 'NY', '10001', '2025-07-03 01:18:10.494810'),
